@@ -16,12 +16,12 @@ EDUCATION
 *Ph.D student,* Information and Communication Engineering\
 South China University of Technology, expected June 2023\
 *Bachelor of Engineering,* Information Engineering\
-South China University of Technology, June 2018\
+South China University of Technology, June 2018
 
 RESEARCH EXPERIENCE
 ===================
 
-*Neural Architecture Search* April 2018-present\
+*Neural Architecture Search* April 2018-present
 
 -   Currently focusing in automated design of rotation-equivariant point
     cloud networks, including network build-up and search strategy.
@@ -34,7 +34,7 @@ RESEARCH EXPERIENCE
 -   Reproduced and investigated in ENAS and DARTS, including in-depth
     analysis of their searching dynamics.
 
-*Adversarial Attack and Defense* June 2017--March 2018\
+*Adversarial Attack and Defense* June 2017--March 2018
 
 -   Designed and implemented methods on the generation and defense of
     adversarial examples based on denoiser. Bronze medal on Kaggle in
@@ -50,7 +50,7 @@ PUBLICATIONS
 ENGINEER EXPERIENCE
 ===================
 
-*One-man Infrastructure Team at GorillaLab, SCUT* Jun 2021--Now\
+*One-man Infrastructure Team at GorillaLab, SCUT* Jun 2021--Now
 
 -   Developed plugins in OpenPAI for fine-grained management and
     efficient, interactive training for large-scale AI training on
@@ -60,7 +60,7 @@ ENGINEER EXPERIENCE
     which includes a k8s cluste, OpenPAI cluster service and NFS+Ceph
     storage backend.
 
-*Research Intern at DexForce, Guangzhou* May 2020--Aug 2020\
+*Research Intern at DexForce, Guangzhou* May 2020--Aug 2020
 
 -   Researched in edge detection and part segmentation methods for
     images.
