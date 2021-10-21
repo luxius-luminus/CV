@@ -13,7 +13,7 @@ their particular use in point cloud learning.
 EDUCATION
 =========
 
-*Ph.D student,* Information and Communication Engineering\
+*Ph.D candidate,* Information and Communication Engineering\
 South China University of Technology, expected June 2023\
 *Bachelor of Engineering,* Information Engineering\
 South China University of Technology, June 2018
