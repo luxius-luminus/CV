@@ -50,14 +50,14 @@ PUBLICATIONS
 ENGINEER EXPERIENCE
 ===================
 
-*One-man Infrastructure Team at GorillaLab, SCUT* Jun 2021--Now
+*Infrastructure Administrator (Voluntary) at GorillaLab, SCUT* Jun 2021--Now
 
 -   Developed plugins in OpenPAI for fine-grained management and
     efficient, interactive training for large-scale AI training on
     cloud.
 
 -   Designed, deployed and maintaining a solution for AI experiments,
-    which includes a k8s cluste, OpenPAI cluster service and NFS+Ceph
+    which includes a k8s cluste, an OpenPAI cluster service and NFS+Ceph
     storage backend.
 
 *Research Intern at DexForce, Guangzhou* May 2020--Aug 2020
