@@ -4,13 +4,13 @@ South China University of Technoloy
 
 eelin\_xuanxiang\@mail.scut.edu.cn
 
-RESEARCH INTERESTS
+### RESEARCH INTERESTS
 ==================
 
 Theories and applications of neural architecture search, especially
 their particular use in point cloud learning.
 
-EDUCATION
+### EDUCATION
 =========
 
 *Ph.D candidate,* Information and Communication Engineering\
@@ -18,7 +18,7 @@ South China University of Technology, expected June 2023\
 *Bachelor of Engineering,* Information Engineering\
 South China University of Technology, June 2018
 
-RESEARCH EXPERIENCE
+### RESEARCH EXPERIENCE
 ===================
 
 *Neural Architecture Search* April 2018-present
@@ -40,14 +40,14 @@ RESEARCH EXPERIENCE
     adversarial examples based on denoiser. Bronze medal on Kaggle in
     NIPS 2017: Non-targeted Adversarial Attack competition.
 
-PUBLICATIONS
+### PUBLICATIONS
 ============
 
 -   Xuanxiang Lin, Ke Chen and Kui Jia. 2021. Object Point Cloud
     Classification via Poly-Convolutional Architecture Search. In
     Proceedings of the 29th ACM International Conference on Multimedia
 
-ENGINEER EXPERIENCE
+### ENGINEER EXPERIENCE
 ===================
 
 *Infrastructure Administrator (Voluntary) at GorillaLab, SCUT* Jun 2021--Now
@@ -67,7 +67,7 @@ ENGINEER EXPERIENCE
 
 -   Developed a containerized partial point cloud generation service.
 
-RELEVANT SKILLS
+### RELEVANT SKILLS
 ===============
 
 *Languages* Native in Mandarin, Cantonese, proficient in English.
